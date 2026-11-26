@@ -1,4 +1,4 @@
-"""Entry for make.fun bounty u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163.
+"""Entry v2 for make.fun bounty u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163.
 
 Writes the chosen one-line excuse to /output/entry.txt via MAKEFUN_OUTPUT_DIR.
 Pure stdlib, no network, no secrets, deterministic: the same line every run.
@@ -7,8 +7,8 @@ Pure stdlib, no network, no secrets, deterministic: the same line every run.
 import os
 
 LINE = (
-    "Sorry, I checked the agenda and the only action item is "
-    "scheduling another meeting, so I'll wait for that one."
+    "I joined the last one on mute for 40 minutes and nobody noticed, "
+    "so I'm just formalising the arrangement."
 )
 
 
